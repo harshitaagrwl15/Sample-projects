@@ -11,7 +11,7 @@ class calculator {
     number1=5.0;
     number2=5.0;
     operator='+';
-*/
+/*
     // ask users to enter operator
     System.out.println("Choose an operator: +, -, *, or /");
     operator = input.next().charAt(0);
@@ -22,7 +22,7 @@ class calculator {
 
     System.out.println("Enter second number");
     number2 = input.nextDouble();
-/*
+*/
     switch (operator) {
 
       // performs addition between numbers
